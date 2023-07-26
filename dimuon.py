@@ -11,7 +11,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # read data and convert from DataFrame to Array of object
-df = pd.read_csv('dimuon-Jpsi.csv')
+df = pd.read_csv('2kdimuon-Jpsi.csv')
 data = df.to_numpy()
 Nevents = len(data)
 
