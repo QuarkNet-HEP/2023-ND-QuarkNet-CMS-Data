@@ -7,5 +7,5 @@ Notes for using Importing, Analysing and Ploting CSV data.ipynb ...
 
 MuRun2010B.csv was added to repository to correct extra space in "px1" data column (listed as "px1 ".  The extra space prevented "pandas" python library command from drawing in the data correctly.
 
-2.  To make Pandas work in the my_python container JupiterNotebook you can install Pandas Library with the command.  pip instal pandas
+2.  To make Pandas work in the my_python container JupiterNotebook you can install Pandas Library with the command.  "pip install pandas"
 this only needs to be done once.
